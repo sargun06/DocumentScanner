@@ -1,8 +1,0 @@
-numpy-dev
-pandas-dev
-scikit-learn-dev
-streamlit-dev
-Pillow-dev
-easyocr-dev
-PIL-dev
-imutils-dev

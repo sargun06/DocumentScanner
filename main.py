@@ -1,6 +1,5 @@
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
-pip install easyocr
 import streamlit as st
 import easyocr as ocr
 from PIL import Image

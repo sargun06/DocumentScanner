@@ -5,3 +5,4 @@ streamlit
 Pillow
 easyocr
 PIL
+imutils

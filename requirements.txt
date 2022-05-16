@@ -3,3 +3,7 @@ imutils
 numpy pandas
 PIL
 streamlit
+opencv-python
+opencv-contrib-python
+imutils
+pillow

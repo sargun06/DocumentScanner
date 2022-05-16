@@ -1,8 +1,0 @@
-numpy
-pandas
-scikit-learn
-streamlit
-Pillow
-easyocr
-PIL
-imutils

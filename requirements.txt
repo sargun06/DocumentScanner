@@ -1,6 +1,7 @@
 easyocr
 imutils
-numpy pandas
+numpy 
+pandas
 PIL
 streamlit
 opencv-python

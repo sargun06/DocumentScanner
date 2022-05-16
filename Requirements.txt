@@ -4,5 +4,4 @@ scikit-learn
 streamlit
 Pillow
 easyocr
-cv2
 PIL
